@@ -1,0 +1,21 @@
+{
+  "name": "fivem-react-template",
+  "version": "1.0.0",
+  "description": "A basic FiveM resource with React UI",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.3.0",
+    "tailwindcss": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.2.1"
+  }
+}
